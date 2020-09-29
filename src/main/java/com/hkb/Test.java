@@ -9,4 +9,5 @@ public class Test {
     int clone;
     String bb="";
     String cc="";
+    int c=0;
 }
