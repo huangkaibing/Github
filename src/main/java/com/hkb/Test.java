@@ -9,6 +9,6 @@ public class Test {
     int clone;
     String bb="";
     String cc="";
-    int c=0;
+    int c=100;
     String dd="huangkb";
 }
