@@ -5,4 +5,5 @@ public class Test {
     public int hashCode() {
         return super.hashCode();
     }
+    int a ;
 }
