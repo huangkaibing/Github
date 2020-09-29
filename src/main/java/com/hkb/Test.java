@@ -8,4 +8,5 @@ public class Test {
     int a ;
     String bb="";
     int c=0;
+    String dd="huangkb";
 }
