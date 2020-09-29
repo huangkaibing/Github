@@ -6,4 +6,5 @@ public class Test {
         return super.hashCode();
     }
     int a ;
+    String bb="";
 }
