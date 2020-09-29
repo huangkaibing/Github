@@ -8,4 +8,5 @@ public class Test {
     int a ;
     int clone;
     String bb="";
+    String cc="";
 }
