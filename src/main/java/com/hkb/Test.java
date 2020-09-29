@@ -8,7 +8,7 @@ public class Test {
     int a ;
     int clone;
     String bb="";
-    String cc="";
-    int c=0;
+    String cc="1000";
+    int c=50;
     String dd="huangkb";
 }
