@@ -6,7 +6,9 @@ public class Test {
         return super.hashCode();
     }
     int a ;
+    int clone;
     String bb="";
+    String cc="";
     int c=0;
     String dd="huangkb";
 }
